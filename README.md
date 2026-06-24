@@ -5,7 +5,7 @@ This is the official repository for the paper: **Self-Evolving Just-In-Time Memo
 ## Framework
 
 <p align="center">
-  <img src="JIT.pdf" width="95%">
+  <img src="JIT.png" width="95%">
 </p>
 
 ## Code
