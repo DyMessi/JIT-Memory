@@ -1,4 +1,4 @@
-# Self-Evolving-Just-In-Time-Memory-for-Proactive-Embodied-Safety
+# Self-Evolving Just-In-Time Memory for Proactive Embodied Safety
 
 This is the official repository for the paper: **Self-Evolving Just-In-Time Memory for Proactive Embodied Safety**
 
